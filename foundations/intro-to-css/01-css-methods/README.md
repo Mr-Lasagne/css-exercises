@@ -14,6 +14,7 @@ HTML file yourself. This is all about practicing using these different methods
 and getting the syntax right.
 
 > [!TIP]
+>
 > Do not worry about details in these exercises that are not specifically
 > mentioned in the exercise or self check section. Because the desired outcomes
 > are screenshots, your browser may show a different font, the colors may appear
