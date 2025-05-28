@@ -13,8 +13,7 @@ you, but for this exercise you will have to create the file and link it in the
 HTML file yourself. This is all about practicing using these different methods
 and getting the syntax right.
 
-> ## Quick tip
->
+> [!TIP]
 > Do not worry about details in these exercises that are not specifically
 > mentioned in the exercise or self check section. Because the desired outcomes
 > are screenshots, your browser may show a different font, the colors may appear
