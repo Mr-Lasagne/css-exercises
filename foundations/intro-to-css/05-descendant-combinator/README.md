@@ -25,7 +25,7 @@ The properties you need to add are:
 
 ### Self Check
 
-- [ ] Do the elements that contain the text "This should be styled" have the
+- [x] Do the elements that contain the text "This should be styled" have the
       correct styles applied?
-- [ ] Do the elements that contain the text "This should be unstyled" have no
+- [x] Do the elements that contain the text "This should be unstyled" have no
       styles applied?
