@@ -42,6 +42,6 @@ the popup that appears!
 
 ### Self Check
 
-- [ ] Do the odd numbered `p` elements share a class?
-- [ ] Do the even numbered `div` elements have unique IDs?
-- [ ] Does the Number 3 element have multiple classes?
+- [x] Do the odd numbered `p` elements share a class?
+- [x] Do the even numbered `div` elements have unique IDs?
+- [x] Does the Number 3 element have multiple classes?
