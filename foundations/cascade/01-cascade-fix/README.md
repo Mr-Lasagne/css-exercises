@@ -27,5 +27,5 @@ rules carefully.
 
 ### Self Check
 
-- [ ] Did you make sure to not edit the HTML file?
-- [ ] If you added selectors to the CSS, do they target a valid HTML element?
+- [x] Did you make sure to not edit the HTML file?
+- [x] If you added selectors to the CSS, do they target a valid HTML element?
