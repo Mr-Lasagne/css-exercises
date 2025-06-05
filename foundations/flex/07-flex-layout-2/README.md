@@ -33,7 +33,7 @@ operating system. This does not affect the exercise and can be ignored.
 
 ### Self Check
 
-- [ ] The header text is size 32px and weight 900.
+- [x] The header text is size 32px and weight 900.
 - [ ] The header text is vertically centered and 16px from the edge of the
       screen.
 - [ ] The footer is pushed to the bottom of the screen (the footer may go
